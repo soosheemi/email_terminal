@@ -1,12 +1,12 @@
 {
     "serverAddress": "279.1.156.15",
-    "serverName": "Vision Tech Inc.",
-    "iconName": "vision.svg",
-    "terminalID": "vtech",
+    "serverName": "Delta Green",
+    "iconName": "Front-Seal-final-copy-copy.jpg",
+    "terminalID": "DeltaGreen",
     "defaultUser": {
         "userId": "user",
         "password": "",
-        "userName": "visitor"
+        "userName": "Agent"
     },
     "randomSeed": false,
     
