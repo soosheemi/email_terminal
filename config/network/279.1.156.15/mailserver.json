@@ -3,9 +3,7 @@
         "from": "anonymous",
         "to": ["curve", "mmon", "holder1", "holder2", "soo"],
         "title": "[Encrypted Message]",
-        "body": "VHJhdmVsIGltbWVkaWF0ZWx5IHRvIHRoZSBuZWFyYnkgdG93biBvZiBDaGlsZHJlc3MuIA0KDQpEbyBub3QgaW5mb3JtIGFueW9uZSBvZiB5b3VyIGRlc3RpbmF0aW9uLiANCg0KUGxhbmUgdGlja2V0cyB3aWxsIGJlIHdhaXRpbmcgYXQgdGhlIG5lYXJlc3QgYWlycG9ydC4gDQoNCllvdSBhcmUgdG8gcmV0cmlldmUgYSBwYWNrYWdlIHdpdGggbW9yZSBpbnN0cnVjdGlvbnMgaW4gdGhlIG1haWxib3ggYWNyb3NzIGZyb20gdGhlIENoaWxkcmVzcyBDb3VudHkgSGVyaXRhZ2UgTXVzZXVtLiA=
-        
-        BASE 64."
+        "body": "VHJhdmVsIGltbWVkaWF0ZWx5IHRvIHRoZSBuZWFyYnkgdG93biBvZiBDaGlsZHJlc3MuIA0KDQpEbyBub3QgaW5mb3JtIGFueW9uZSBvZiB5b3VyIGRlc3RpbmF0aW9uLiANCg0KUGxhbmUgdGlja2V0cyB3aWxsIGJlIHdhaXRpbmcgYXQgdGhlIG5lYXJlc3QgYWlycG9ydC4gDQoNCllvdSBhcmUgdG8gcmV0cmlldmUgYSBwYWNrYWdlIHdpdGggbW9yZSBpbnN0cnVjdGlvbnMgaW4gdGhlIG1haWxib3ggYWNyb3NzIGZyb20gdGhlIENoaWxkcmVzcyBDb3VudHkgSGVyaXRhZ2UgTXVzZXVtLiA=  BASE 64."
     },
     {
         "from": "Software",
