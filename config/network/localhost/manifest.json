@@ -2,7 +2,7 @@
     "year": "2021",
     "serverAddress": "localhost",
     "serverName": "Node Y56 Intranet",
-    "iconName": "moon-icon.png",
+    "iconName": "Moon-icon.png",
     "terminalID": "Y56",
     "defaultUser": {
         "userId": "user",
